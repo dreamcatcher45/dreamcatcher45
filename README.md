@@ -5,9 +5,6 @@
 ### A computer science student and also a passionate self-taught developer ,I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source
 <br>
 
-![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
-
-
 <a href="https://www.instagram.com/dream._.catch3r/">
   <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /> </a> 
 
