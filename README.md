@@ -6,7 +6,7 @@
 <br>
 
 <a href="https://www.instagram.com/dream._.catch3r/">
-  <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /> </a> 
+<img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /></a> 
 
 <a href="https://www.linkedin.com/in/jerome-george-kannookkadan/"><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> 
 
