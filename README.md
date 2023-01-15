@@ -7,11 +7,14 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
+
 <a href="https://www.instagram.com/dream._.catch3r/">
   <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /> </a> 
 
-<a href="https://www.linkedin.com/in/jerome-george-kannookkadan/"><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> 
+<a href="https://www.linkedin.com/in/jerome-george-kannookkadan/"><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> 
 
-<a href=https://github.com/dreamcatcher45><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a> 
+<a href=https://github.com/dreamcatcher45><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a> 
 
-<a href="https://open.spotify.com/playlist/6Z594QKDW4nSrqtMzh0PFL?si=ceb1039352844a2b&nd=1"><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/2585/2585161.png" /></a> 
+<a href="https://open.spotify.com/playlist/6Z594QKDW4nSrqtMzh0PFL?si=ceb1039352844a2b&nd=1"><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2585/2585161.png" /></a> 
+
+
