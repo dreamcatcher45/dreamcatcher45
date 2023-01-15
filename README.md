@@ -1,16 +1,17 @@
-### Hi there 👋
+# Hi, I'm Jerome George <img src="https://media.giphy.com/media/VJTAhOzkmy7620OMK8/giphy.gif" width="30">
 
+**`a.k.a Dreamcatcher | tech enthusiast.`** 
 
-**dreamcatcher45/dreamcatcher45** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A computer science student and also a passionate self-taught developer ,I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source
+<br>
 
-Here are some ideas to get you started:
+![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id&left_color=green&right_color=red)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+<a href="https://www.instagram.com/dream._.catch3r/">
+  <img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/2111/2111463.png" /> </a> 
 
+<a href="https://www.linkedin.com/in/jerome-george-kannookkadan/"><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> 
+
+<a href=https://github.com/dreamcatcher45><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a> 
+
+<a href="https://open.spotify.com/playlist/6Z594QKDW4nSrqtMzh0PFL?si=ceb1039352844a2b&nd=1"><img align="center" width="30px" src="https://cdn-icons-png.flaticon.com/512/2585/2585161.png" /></a> 
