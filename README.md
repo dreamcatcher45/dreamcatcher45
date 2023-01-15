@@ -13,3 +13,24 @@
 
 <a href="https://open.spotify.com/playlist/6Z594QKDW4nSrqtMzh0PFL?si=ceb1039352844a2b&nd=1"><img  width="30px" src="https://cdn-icons-png.flaticon.com/512/2585/2585161.png" /></a> 
 
+
+&nbsp;
+## **Languages and Tools**
+
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></code>
+<code><img height="34" src=https://img.icons8.com/color/512/c-programming.png></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></code>
+<code><img height="30" src="https://bulma.io/assets/Bulma%20Icon.png"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></code>
+<code><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></code>
+<code><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></code>
+<code><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></code>
+
+
