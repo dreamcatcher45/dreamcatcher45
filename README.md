@@ -28,7 +28,7 @@
 <img><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img>
 <img><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></img>
-<img><img height="30" src="[https://cdn-icons-png.flaticon.com/512/5969/5969059.png](https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png)"></img>
+<img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></img>
 <img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></img>
