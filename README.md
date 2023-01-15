@@ -1,10 +1,9 @@
-# Hi, I'm Jerome George <img src="https://media.giphy.com/media/VJTAhOzkmy7620OMK8/giphy.gif" width="30">
+# Hi, I'm Jerome George 🐱‍👤
 
 **`a.k.a Dreamcatcher | tech enthusiast.`** 
 
 ### A computer science student and also a passionate self-taught developer ,I am also an open-source enthusiast. I learned a lot from the open-source community and i love how collaboration and knowledge sharing happened through open-source
 &nbsp;
-
 <a href="https://www.linkedin.com/in/jerome-george-kannookkadan/"><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/3536/3536505.png" /></a> 
 
 <a href=https://github.com/dreamcatcher45><img align="left" width="30px" src="https://cdn-icons-png.flaticon.com/512/733/733553.png" /></a> 
