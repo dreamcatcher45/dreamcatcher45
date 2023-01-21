@@ -15,7 +15,7 @@
 
 
 &nbsp;
-## **Languages and Tools**
+## **Languages and Tools (That I Have Tried)**
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></img>
