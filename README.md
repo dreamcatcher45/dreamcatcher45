@@ -15,7 +15,7 @@
 
 
 &nbsp;
-## **Languages and Tools (That I Have Tried)**
+## **Languages and Tools (I Have Used)**
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></img>
@@ -32,5 +32,7 @@
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></img>
 <img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></img>
 <img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></img>
+<img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></img>
+<img><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png?f=avif&w=256"></img>
 
 
