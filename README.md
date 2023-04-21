@@ -15,24 +15,5 @@
 
 
 &nbsp;
-## **Languages and Tools (I Have Used)**
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132221.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968350.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/6132/6132222.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/226/226777.png"></img>
-<img><img height="34" src=https://img.icons8.com/color/512/c-programming.png></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/174/174854.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/732/732190.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968672.png"></img>
-<img><img height="30" src="https://bulma.io/assets/Bulma%20Icon.png"></img>
-<img><img height="30" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg"></img>
-<img><img height="30" src="https://www.vectorlogo.zone/logos/mongodb/mongodb-icon.svg"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/906/906324.png"></img>
-<img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/684px-Microsoft_.NET_logo.svg.png"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5968/5968313.png"></img>
-<img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Jenkins_logo.svg"></img>
-<img><img height="30" src="https://cdn-icons-png.flaticon.com/512/5969/5969059.png"></img>
-<img><img height="30" src="https://upload.wikimedia.org/wikipedia/commons/c/c6/Dart_logo.png"></img>
-<img><img height="30" src="https://cdn.iconscout.com/icon/free/png-512/flutter-2038877-1720090.png?f=avif&w=256"></img>
-
-
+## **Languages and Tools**
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,js,html,css,bootstrap,java,python,git,mongodb,visualstudio,dotnet,docker,jenkins,mysql,dart,flutter&perline=6)](https://skillicons.dev)
