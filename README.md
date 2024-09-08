@@ -16,7 +16,7 @@
 
 &nbsp;
 ## **Languages and Tools**
-[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,js,html,css,bootstrap,java,python,git,mongodb,visualstudio,dotnet,docker,jenkins,mysql,dart,flutter&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=cs,cpp,c,js,html,css,bootstrap,java,python,git,mongodb,visualstudio,dotnet,docker,jenkins,mysql,dart,flutter,angular,cloudflare,flask,github,githubactions,laravel,linux,lua,md,netlify,npm,php,postgres,sqlite,supabase,tailwind,vite,&perline=7)](https://skillicons.dev)
 
 <div align="left">
 
